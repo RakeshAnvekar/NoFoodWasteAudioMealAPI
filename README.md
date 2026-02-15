@@ -27,18 +27,8 @@ An AI-powered FastAPI microservice that converts spoken audio (in any language) 
 
 ## 📁 Project Structure
 
-NoFoodWasteAudioMealAPI
-│
-├── app
-│   ├── main.py
-│   ├── config.py
-│   ├── models.py
-│   └── services
-│       ├── speech_api.py
-│       └── metadata_service.py
-│
-├── .env
-└── requirements.txt
+<img width="276" height="288" alt="image" src="https://github.com/user-attachments/assets/af9aad58-7624-4ffa-8a46-8a9adf8e1619" />
+
 
 ---
 
